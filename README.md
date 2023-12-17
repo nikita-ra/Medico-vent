@@ -1,3 +1,5 @@
-# Medico-vent
-Developed Machine Learning system utilizing Random Forest Classification to analyze symptoms, achieving an impressive
-accuracy rate of 94% in disease classification and corresponding medicine
+# DpProject
+
+This Model take symptoms(fixed option) and try to predict Disease
+based on given option
+To start the model just run UI.py and you are good to go.
